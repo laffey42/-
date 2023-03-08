@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\课程设计\【课程设计题目4】（必选二）\源.c(78,17): warning C4133: “return”: 从“TSMatrix *”到“TsMatrix *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\课程设计\【课程设计题目4】（必选二）\源.c(253,1): warning C4133: “初始化”: 从“TsMatrix *”到“TSMatrix *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\课程设计\【课程设计题目4】（必选二）\源.c(266,1): warning C4133: “初始化”: 从“TsMatrix *”到“TSMatrix *”的类型不兼容
+  【课程设计题目4】（必选二）.vcxproj -> C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\课程设计\【课程设计题目4】（必选二）\Debug\【课程设计题目4】（必选二）.exe
